@@ -1,0 +1,37 @@
+{
+    "allDescription":[
+    {
+        "name": "Shrisant Adhikari",
+        "age": 19,
+        "hobbies": [
+            "travelling",
+            "gym",
+            "sleeping",
+            "Eating"
+        ],
+        "passion": "coding"
+    },
+
+    {
+        "name": "Swapan Adhikari",
+        "age": 21,
+        "hobbies": [
+            "gyming",
+            "travelling",
+            "playing games"
+        ],
+        "passion": "business"
+    },
+
+    {
+        "name":"Sunita Adhikari",
+        "age":40,
+        "hobbies":[
+            "makeup",
+            "travelling",
+            "fashion"
+        ]
+    }
+
+]
+}
